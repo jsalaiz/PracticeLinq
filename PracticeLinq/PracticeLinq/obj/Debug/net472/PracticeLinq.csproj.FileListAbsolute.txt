@@ -1,0 +1,9 @@
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\obj\Debug\net472\PracticeLinq.csprojAssemblyReference.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\obj\Debug\net472\PracticeLinq.AssemblyInfoInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\obj\Debug\net472\PracticeLinq.AssemblyInfo.cs
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\obj\Debug\net472\PracticeLinq.csproj.CoreCompileInputs.cache
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\bin\Debug\net472\PracticeLinq.exe.config
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\bin\Debug\net472\PracticeLinq.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\bin\Debug\net472\PracticeLinq.pdb
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\obj\Debug\net472\PracticeLinq.exe
+C:\Users\jonat\Desktop\TrueCoders\repos\PracticeLinq\PracticeLinq\PracticeLinq\obj\Debug\net472\PracticeLinq.pdb
